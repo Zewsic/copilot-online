@@ -1,0 +1,47 @@
+body {
+background-color: #404040;
+}
+
+ol li {
+color: #868185;
+position: center;
+text-align: left;
+}
+
+.logo {
+  color: #FFF;
+  font-size: 32px;
+  margin: 30px;
+}
+
+.editor {
+  background-color: #282828;
+  margin: 5% 10%;
+  border-radius: 15px;
+  text-align: center;
+  padding: 10px 0px 0px 0px
+}
+
+.actions {
+  text-align: right;
+}
+
+.extend_btn {
+  background-color: #00BFFF;
+  border-radius: 0px 0px 12px 0px;
+  padding: 5px 15px;
+  border: 0px solid;
+  color: #FFF;
+  font-size: 24px
+}
+
+select {
+  background-color: #4682B4;
+  border-radius: 12px 0px 0px 0px;
+  color: #FFF;
+  border: 0px solid;
+  padding: 5px 15px;
+  font-size: 24px
+}
+
+* {outline:none;}
